@@ -1,4 +1,4 @@
-# Card-Game-Research
+# Slapjack
 
 I've managed to find a card game that I would like to translate to a computer game, and 
 that card game is Slapjack. It's a two or more player game where the goal is to win all
